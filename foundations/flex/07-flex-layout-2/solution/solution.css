@@ -4,6 +4,10 @@ body {
   min-height: 100vh;
 }
 
+* {
+  border: 1px red solid;
+}
+
 .header {
   height: 72px;
   background: darkmagenta;
